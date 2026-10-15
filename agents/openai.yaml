@@ -1,0 +1,4 @@
+interface:
+  display_name: "秋招作品集生成器"
+  short_description: "读取简历并追问项目资料，生成粉蓝文件夹风格PDF作品集和动态网页。"
+  default_prompt: "使用 $career-portfolio，先读我的简历并询问补充作品资料，再生成PDF和动态网页。"
